@@ -1,4 +1,4 @@
-# Ford GoBike Bike Share Data Analyis
+# Ford GoBike Bike Share Data Analysis
 ## by Chinemelum Nwaeze
 
 
